@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 // import axios from "axios"; FOR API USE ONLY
 import { Link } from 'react-router-dom';
-import img from '../img.png';
+import img from '../img.jpg';
 import { connect } from 'react-redux';
 
 class Home extends Component {
